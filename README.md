@@ -28,8 +28,8 @@ Discover fascinating facts about the real world that will blow your mind. From h
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Tharun7209/youtube-title-and-short-description-generator.git
+cd youtube-title-and-short-description-generator
 ```
 
 ### 2. Install dependencies
