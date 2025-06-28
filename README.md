@@ -20,7 +20,7 @@ Facts about real world
 ```
 "Unbelievable Real-World Facts That Will Blow Your Mind"
 
-Discover fascinating facts about the real world that will blow your mind. From hidden wonders to astonishing phenomena, this video delivers insights that amaze and educate.
+Discover fascinating facts about the real world that will blow your mind. From hidden wonders to astonishing phenomena
 ```
 
 ##  Setup
